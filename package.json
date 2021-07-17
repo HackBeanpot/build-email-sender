@@ -1,0 +1,10 @@
+{
+  "name": "email-sender",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "meebs <alex@takayamasan.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.36"
+  }
+}
