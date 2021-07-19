@@ -5,6 +5,8 @@
   "author": "meebs <alex@takayamasan.com>",
   "license": "MIT",
   "devDependencies": {
-    "@types/google-apps-script": "^1.0.36"
+    "@types/google-apps-script": "^1.0.36",
+    "prettier": "^2.3.2",
+    "prettier-plugin-jsdoc": "^0.3.23"
   }
 }
